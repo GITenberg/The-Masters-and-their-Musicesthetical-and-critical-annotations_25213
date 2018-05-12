@@ -1,0 +1,31 @@
+_repo: The-Masters-and-their-Musicesthetical-and-critical-annotations_25213
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mathews, W. S. B. (William Smythe Babcock)
+    birthdate: 1837
+    deathdate: 1912
+    gutenberg_agent_id: '9213'
+    url: http://www.gutenberg.org/2009/agents/9213
+description: ''
+gutenberg_issued: '2008-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Biography'
+- !lcsh 'Music appreciation'
+- !lcc 'ML'
+title: 'The Masters and their Music
+
+  A series of illustrative programs with biographical,
+
+  esthetical, and critical annotations'
+url: http://www.gutenberg.org/ebooks/25213
